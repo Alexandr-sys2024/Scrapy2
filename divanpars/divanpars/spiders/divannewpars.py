@@ -1,4 +1,5 @@
 import scrapy
+import csv
 
 
 class DivannewparsSpider(scrapy.Spider):
